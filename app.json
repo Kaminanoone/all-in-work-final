@@ -25,10 +25,7 @@
         }
     },
     "addons": [],
-    "buildpacks": [
-        {
-            "url": "https://github.com/amivin/aria2-heroku.git"
-        },
+    "buildpacks": 
         {
             "url": "heroku/python"
         },       
